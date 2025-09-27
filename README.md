@@ -10,16 +10,14 @@
 </div>  
 
 ## Sobre mim
-Sou um profissional apaixonado por **Tecnologia**, formado em **Técnico de Informática** e atualmente cursando **Bacharelado em Engenharia de Controle e Automação** no **IFPB - Campus Cajazeiras**. Busco integrar conhecimentos sólidos em informática com a inovação e os desafios da automação industrial. Tenho interesse em **soluções criativas, automação inteligente** e em realizar contribuições significativas para o mundo da engenharia.
+Sou um profissional apaixonado por **tecnologia**, formado em **Técnico de Informática** e atualmente cursando **Bacharelado em Engenharia de Controle e Automação** no **IFPB - Campus Cajazeiras**.
 
 ## Contatos
 <div>
-  <a href="mailto:info.andersonsouza@gmail.com">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="mailto:info.andersonsouza@gmail.com" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="www.linkedin.com/in/
-anderson-de-souza-santos-b179b8208
-" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/anderson-de-souza-santos-b179b8208/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
